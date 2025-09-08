@@ -19,7 +19,7 @@ Keep Hackintosh kickin’ after macOS "Tahoe" by:
 3. Toss in QEMU configs, patches, or docs if you’ve got ‘em  
 
 ## Domain
-This project is live at: [viragsimplecoder0008.github.io/sm1ac](https://github.com/sm1ac). (IF you would like to see the website, then its live at [viragsimplecoder0008/sm1ac-page](https://viragsimplecoder0008.github.io/sm1ac-page))  
+This project is live at: [viragsimplecoder0008.github.io/sm1ac](https://github.com/viragsimplecoder0008/sm1ac). (IF you would like to see the website, then its live at [viragsimplecoder0008/sm1ac-page](https://viragsimplecoder0008.github.io/sm1ac-page))  
 
 ---
 *This is strictly an educational & research project. We **DO NOT** hand out macOS builds, ISOs, or Apple proprietary code.*  
